@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.btn,
+.file-input,
+.input,
+.select {
+  height: 2.5rem;
+  min-height: 2.5rem;
+}
